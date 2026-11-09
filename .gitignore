@@ -1,0 +1,10 @@
+# Configuração local do brModelo
+*.chc
+
+# Enunciados e critérios do professor (material da disciplina)
+CRITERIOS_TRABALHO_1_BD_E_GRUPOS_bd_2026_semestre2.docx
+Trab1_Parte_A_BD_ano_2o_sem_2026.docx
+Trab_Final_BD_Parte_B_ano_2o_sem_2026_.docx
+
+# Arquivos temporários do Word
+~$*
