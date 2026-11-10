@@ -12,6 +12,7 @@ Trabalho final da disciplina de Banco de Dados — Prof. Wendel Góes — UTFPR 
 - `Parte A/Guia_DER_brModelo.md` — entidades, atributos e relacionamentos do DER
 - `Diagrama.brM3` — DER no brModelo
 - `Diagrama.png` — imagem do DER
+- `Parte A/Apresentacao/Apresentacao_Parte_A.pdf` — slides da apresentação (o `.html` da mesma pasta abre no navegador: setas trocam de slide, F11 tela cheia)
 
 ## Parte B — Modelo Lógico, Projeto Físico e Consultas (MySQL)
 
